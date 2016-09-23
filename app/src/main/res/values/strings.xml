@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ex1</string>
+    <string name = "intro">this activity demonstrates the use of relative layout with two internal linear layouts</string>
+    <string name = "editText">Your name</string>
+    <string name = "button">Press me!</string>
+</resources>
